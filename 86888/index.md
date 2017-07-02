@@ -22,4 +22,6 @@ Tesco however, are being _a bit awkward_ in their latest mission to cloak the fa
 
 However, shareholders are shareholders and the profits belong to them, so the directors cannot be blamed for not wanting to stump up the cash... can they? So how to raise £86888 in two days?  Ask nicely, auction your services, and hope. <a href="http://www.chickenout.tv/tesco-checkout-challenge.html">Bid now</a>, or <a href="http://www.rivercottage.net/redir.asp?c=38639&amp;i=143415&amp;u=">donate</a>, no matter how small, remember, every little helps.
 
-**Update**: <a href="http://www.chickenout.tv/tesco-checkout-challenge.html">Wow! Target reached!</a> Next stop the Tesco AGM! <img src="http://www.chickenout.tv/uploads/files/rc_frr_banner.gif" alt="Chicken Out! Campaign Sign-up"></p>
+**Update**: [Wow! Target reached!](http://www.chickenout.tv/tesco-checkout-challenge.html)
+
+Next stop the Tesco AGM.
