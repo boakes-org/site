@@ -16,7 +16,9 @@ post_type: post
 This website - like any website that allows readers to submit comments - receives comment-spam, usually advertising medicines, gambling, or other vices. I've been trialling a new [anti-comment-spam plugin](http://photomatt.net/2005/09/19/stop-spam-better/) since mid September. It's called Kismet, it's from [Automattic](http://automattic.com/), (hence <a href="http://akismet.com/">Akismet</a> for short) and it's working <em>very</em> well. Comment spam is more costly than email spam because it either wastes the time of the website owner, who has to remove it, or it wastes the time of every reader of the website who has to separate the wheat from the chaff. It's going to be launched tonight (i.e. Tuesday Afernoon, in Texas).
 
 ## Effective Comment-Spam Relief
-According to [Matt Mullenweg](http://photomatt.net), the curator of Automattic, there were "only a dozen or so" active users during the trial that I was involved in, and the system should "become more effective as more people use it". The basic stats from my trial experience were as follows: ![Akismet Stats](/pics/2005/automattic/graph.jpg)
+According to [Matt Mullenweg](http://photomatt.net), the curator of Automattic, there were "only a dozen or so" active users during the trial that I was involved in, and the system should "become more effective as more people use it". The basic stats from my trial experience were as follows:
+
+![Akismet Stats](graph.jpg)
 
 | Message Count | Percentage of Total | Explanation |
 |---|---|---|
@@ -34,7 +36,9 @@ It's based on the principle that once a comment spam message is identified by on
 1.  the IP addresses that the message originated from,
 2.  the web addresses being promoted,
 3.  a string in the content that can be matched by a regular expression,
-4.  or any other number of potential techniques that have not (yet) been disclosed. Messages that are considered to be spam are automatically separated, and the moderator then has 15 days to check through them (in case there are any false positives) before they are removed forever. Spam comments are never visible on the site and the spam checking interface is very simple to use. ![Akismet in use - Click for full size picture](/pics/2005/automattic/inuse_sm.jpg)
+4.  or any other number of potential techniques that have not (yet) been disclosed. Messages that are considered to be spam are automatically separated, and the moderator then has 15 days to check through them (in case there are any false positives) before they are removed forever. Spam comments are never visible on the site and the spam checking interface is very simple to use.
+
+![Akismet in use](inuse.jpg)
 
 ### Threats to it's Effectiveness
 
