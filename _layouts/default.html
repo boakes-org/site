@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <title>
-            {% if page.title %} {{ page.title }} - {% endif %} {{ site.title }}
+            {{ site.title }} {% if page.title %} {{ page.title }} {% endif %}
         </title>
 
         {% if page.description %}
@@ -19,7 +19,7 @@
     <body>
         <section class="main-content">
             {% if page.created %}
-            <p class="post-date">{{ page.created }}</p>
+            <p class="post-date">{{ page.created | date: '%B %d, %Y' }}</p>
             {% endif %} {{ content }}
     </body>
 
