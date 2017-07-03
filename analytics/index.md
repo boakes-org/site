@@ -31,6 +31,7 @@ To use it:
     A zero coding install enables both the default tracking _and_ the use of different channels for specific posts.
 *   **Outgoing links**
     Track which outgoing links your users click on - i.e. the ones that don't traditionally register in your logs. Separate tracking streams for outbound links that are in the main article, comments, and comment author URL's
+    
     ![A graph showing clicks on outbound links - something not possible with stats based on server logs alone](outbound_sm.jpg)
 *   **Multiple Channels**
     Assign a specific channel to any article by entering the channel ID as metadata. i.e. simply type "analytics" as the metadata field name and the channel ID as the value and you can run a channel for each specific post
