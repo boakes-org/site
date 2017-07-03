@@ -13,9 +13,9 @@
 
     <body>
         <section class="main-content">
-            <p class="post-date">Date: {{ page.date }}</p>
-            <p class="post-date">Created: {{ page.created }}</p>
-            {{ content }}
+            {% if page.created %}
+            <p class="post-date">{{ page.created }}</p>
+            {% endif %} {{ content }}
     </body>
 
 </html>
