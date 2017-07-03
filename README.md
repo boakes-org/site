@@ -1,2 +1,2 @@
 # boakes.org
-This space intentionally left blank.
+The cobbler's child has no shoes.
