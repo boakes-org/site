@@ -25,7 +25,7 @@ The latest version of the Akismet plugin (v1.15) makes this "de-spamming" proces
 
 Informing the Akismet server about these false positives is important because it helps improve Akismet's accuracy, which benefits everyone by ensuring fewer false positives - one hand washes the other, so to speak.
 
-![A screengrab showing a list of common spammers.](/pics/2006/worst-offenders/inuse)
+![A screengrab showing a list of common spammers.](inuse.png)
 
 So I wrote a small addition to Akismet 1.15 (pictured) that tries to help. It pre-processes the spam comments and identifies the worst offenders in terms of the domain that's being advertised, or (perhaps more usefully) the IP Address of the spamming computer.
 
