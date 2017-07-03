@@ -38,10 +38,12 @@ This is flawed logic. If the investigators don't know where something is, then t
 
 ### Catchy Monkey
 
-The article then goes on to identify an intricacy of IE that may be used to prove that a URL was manually entered rather than just being a link that was clicked on by the user. This really _could_ be used to convict someone, but it's more likely to happen at the pivotal moment in a Hollywood blockbuster movie, where all appears lost: as the the clock ticks down the young misunderstood toothy geek who has previously appeared socially mal-adjusted removes her* glasses, shakes down her hair, somehow transforms into a beauty on the edge of adulthood, who appears on the stand as an expert witness and foils the crime syndicate. The film closes with a ticker-tape parade.
+The article then goes on to identify an intricacy of IE that may be used to prove that a URL was manually entered rather than just being a link that was clicked on by the user. This really _could_ be used to convict someone, but it's more likely to happen at the pivotal moment in a Hollywood blockbuster movie, where all appears lost: as the the clock ticks down the young misunderstood toothy geek who has previously appeared socially mal-adjusted removes her† glasses, shakes down her hair, somehow transforms into a beauty on the edge of adulthood, who appears on the stand as an expert witness and foils the crime syndicate. The film closes with a ticker-tape parade.
 
 What the article fails to point out is that IE is more full of security holes than a prison made of edam that's fallen victim to a surprisingly large and hungry family of mice. This insecurity makes it particularly easy for evidence collected from an IE user's machine to be brought into doubt because it is remarkably easy to show that it could quite easily have been tampered with by a third party.
 
 So that's plus-one point for forensic simplicity, but minus-infinity for the admissibility of evidence.
 
-[*]: You were thinking geek = male right?
+---
+
+† You were thinking geek = male right?
