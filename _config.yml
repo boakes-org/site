@@ -2,3 +2,5 @@ defaults:
   -
     values:
       author: "Rich Boakes"
+
+theme: jekyll-theme-cayman
