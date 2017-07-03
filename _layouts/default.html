@@ -19,7 +19,7 @@
     <body>
         <section class="main-content">
             {% if page.created %}
-            <p class="post-date">{{ page.created | date: '%B %d, %Y' }}</p>
+            <p class="post-date" title="{{ page.created | date: '%Y-%m-%d' }}">{{ page.created | date: '%B %Y' }}</p>
             {% endif %} {{ content }}
     </body>
 
