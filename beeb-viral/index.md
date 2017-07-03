@@ -1,5 +1,5 @@
 ---
->title: BBC Viral Marketing
+title: BBC Viral Marketing
 author: ear1grey
 post_id: 442
 created: 2005/08/15 11:36:11
