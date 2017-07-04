@@ -22,7 +22,7 @@ Recent articles by [the Guardian](http://www.guardian.co.uk/crime/article/0,2763
 
 To combat such social miscreants, the _Chip and PIN_ machine that's installed in my local store (pictured) features a small finger shield that can partially obscure the view of a ne'er-do-well who has to be looking at just the right moment to be able to spot the PIN.
 
-![Chip and Pin Machine](/pics/2005/chipandpin/chipandpin.png)
+![Chip and Pin Machine](chipandpin.png)
 
 The effectiveness of this shield is largely compromised, however, because **the checkout camera stays squarely focused on the customer, and their PIN**, even when everybody else _does_ avert their gaze: so **anybody that has access to the shop's security recordings** doesn't need furtive glances, they **can take their time and study every delicate finger movement as the PIN is entered**.
 
