@@ -5,10 +5,12 @@
 }
 
 body {
+  font-family: sans-serif;
 	background-color: #fff;
 	padding: 2em;
 	color: #666;
 	word-wrap: break-word;
+  line-height: 1.4;
 }
 
 dl, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul {
@@ -95,6 +97,7 @@ th {
 section {
 	max-width: 30em;
 	padding-bottom: 2em;
+  margin: auto;
 }
 
 hr {
