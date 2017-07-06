@@ -1,5 +1,5 @@
 ---
-title: Bush: “God made me do it”.
+title: "Bush: 'God made me do it'."
 author: ear1grey
 description:
 post_id: 494

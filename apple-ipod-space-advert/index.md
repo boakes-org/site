@@ -1,5 +1,5 @@
 ---
-title: Apple iPod: One Giant Leap for Advertising
+title: "Apple iPod: One Giant Leap for Advertising"
 author: ear1grey
 description:
 post_id: 584

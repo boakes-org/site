@@ -1,5 +1,5 @@
 ---
->title: Goodbye Windows
+title: Goodbye Windows
 author: ear1grey
 post_id: 1310
 created: 2010/08/24 22:43:37

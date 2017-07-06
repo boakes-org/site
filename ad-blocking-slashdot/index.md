@@ -1,5 +1,5 @@
 ---
-title: Advert Blocking: Slashdot's financial problem
+title: "Advert Blocking: Slashdot's financial problem"
 author: ear1grey
 description:
 post_id: 341

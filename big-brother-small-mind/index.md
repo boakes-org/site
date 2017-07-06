@@ -1,5 +1,5 @@
 ---
-title: Big Brother: Small Mind
+title: "Big Brother: Small Mind"
 author: ear1grey
 post_id: 285
 created: 2005/05/29 11:51:26

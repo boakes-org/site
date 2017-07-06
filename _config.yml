@@ -2,6 +2,6 @@ defaults:
   -
     values:
       author: rjb
-theme: rjb
+      layout: default
 title: ⭐️
 description: ⭐️

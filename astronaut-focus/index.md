@@ -1,5 +1,5 @@
 ---
-title: Astronauts: The Focused and The Fragile
+title: "Astronauts: The Focused and The Fragile"
 author: ear1grey
 post_id: 692
 created: 2007/02/06 16:07:20
