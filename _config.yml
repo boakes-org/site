@@ -2,5 +2,5 @@ defaults:
   -
     values:
       author: "Rich Boakes"
-
+theme: jekyll-theme-minimal
 title: ⭐️
