@@ -1,8 +1,7 @@
 defaults:
   -
     values:
-      author: "boakes.org"
-
+      author: rjb
 theme: rjb
 title: ⭐️
 description: ⭐️
