@@ -1,7 +1,8 @@
 defaults:
   -
     values:
-      author: "Rich Boakes"
+      author: "boakes.org"
 
-theme: jekyll-theme-minimal
+theme: rjb
 title: ⭐️
+description: ⭐️
