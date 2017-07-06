@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US " }}">
+<html lang="{{ site.lang | default: " en-gb " }}">
 
 	<head>
 		<meta charset="UTF-8">
@@ -20,6 +20,7 @@
 			{% if page.created %}
 			<p class="post-date" title="{{ page.created | date: '%Y-%m-%d' }}">{{ page.created | date: '%B %Y' }}</p>
 			{% endif %} {{ content }}
+		</section>
 	</body>
 
 </html>
