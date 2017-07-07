@@ -8,7 +8,7 @@ comment_status: open
 post_name: essex-street-lights
 status: publish
 post_type: post
---
+---
 
 # Essex council turns off the lights
 
