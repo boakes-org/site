@@ -1,6 +1,6 @@
 ---
 title: Essex council turns off the lights
-author: ear1grey
+author: rjb
 post_id: 621
 created: 2006/07/14 11:51:53
 created_gmt: 2006/07/14 11:51:53
